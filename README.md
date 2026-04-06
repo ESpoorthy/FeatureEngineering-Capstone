@@ -4,9 +4,9 @@
 Predict hotel booking cancellations using feature engineering and preprocessing.
 
 ## Files
-- Notebook (.ipynb)
+- Notebook (https://colab.research.google.com/drive/190rqFlKbE26U3pUkcQRSoN4qrcvTRoSM?usp=sharing)
 - Report (PDF)
-- Dataset (CSV)
+- Dataset (https://www.kaggle.com/datasets/maryamahmadizadeh/hotelbooking)
 
 ## How to Run
 1. Install requirements
